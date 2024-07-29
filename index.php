@@ -1,6 +1,6 @@
 <?php
 
 
-  echo "Hello, it's Leven Ai"
+  echo "Hi, it's Leven Ai"
   
 ?>
